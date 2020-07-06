@@ -1,0 +1,24 @@
+.Task {
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin: 0;
+    min-width: 444px;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.CountComments {
+    background: #00a98f;
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    border-radius: 50%;
+}
+
+.DeleteButton {
+    border: 1px solid #ff4c4c;
+}

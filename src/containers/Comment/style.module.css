@@ -1,0 +1,12 @@
+.Comment {
+    text-align: center;
+    border: 1px solid #ccc;
+    margin: 0;
+    min-width: 444px;
+    height: 50px;
+}
+
+.CommentColor {
+    width: 30px;
+    height: 30px;
+}
